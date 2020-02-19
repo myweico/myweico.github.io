@@ -1,2 +1,2 @@
 # Weico's Blog
-👉[visit](https://myweico.github.io/blog/)
+👉 [visit](https://myweico.github.io)
