@@ -12,6 +12,6 @@ categories:
 
 ```js
 export function test() {
-  console.log("this is my first post");
+  console.log("this is my first post~");
 }
 ```
